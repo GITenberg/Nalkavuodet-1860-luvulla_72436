@@ -1,0 +1,33 @@
+_repo: Nalkavuodet-1860-luvulla_72436
+_version: 0.0.1
+alternative_title: Nälkävuodet 1860-luwulla
+creator:
+  author:
+    agent_name: Meurman, A. (Agathon)
+    alias: Meurman, Agathon
+    birthdate: 1826
+    deathdate: 1909
+    gutenberg_agent_id: '44370'
+    url: http://www.gutenberg.org/2009/agents/44370
+    wikipedia: https://fi.wikipedia.org/wiki/Agathon_Meurman
+description: ''
+gutenberg_issued: '2023-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72436'
+language: fi
+pgterms:marc905: 20231212041637meurman
+pgterms:marc906: '1892'
+pgterms:marc907: FI
+production_note: Jari Koivisto
+publication_note: '  $aHelsinki :$bKansanvalistusseura, $c1892.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Famines -- Finland -- History -- 19th century'
+- !lcsh 'Finland -- Economic conditions'
+- !lcc 'HC'
+- GITenberg
+title: Nälkävuodet 1860-luvulla
+url: http://www.gutenberg.org/ebooks/72436
