@@ -1,6 +1,9 @@
 _repo: Nalkavuodet-1860-luvulla_72436
 _version: 0.1.0
 alternative_title: Nälkävuodet 1860-luwulla
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Meurman, A. (Agathon)
@@ -11,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/44370
     wikipedia: https://fi.wikipedia.org/wiki/Agathon_Meurman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72436#Nalkavuodet-1860-luvulla
 gutenberg_issued: '2023-12-16'
 gutenberg_type: Text
 identifiers:
